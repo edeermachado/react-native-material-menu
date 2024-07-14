@@ -107,7 +107,7 @@ export class Menu extends React.Component<MenuProps, State> {
 
     this.setState(
       {
-        menuState: States.Animating,
+        // menuState: States.Animating,
         menuWidth: width,
         menuHeight: height,
       },
