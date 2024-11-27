@@ -24,9 +24,9 @@
     "prettify": "prettier --write 'src/**/*.(js|tsx|ts)' && eslint 'src/**/*.{js,ts,tsx}'"
   },
   "devDependencies": {
-    "@react-native-community/eslint-config": "~3.0.0",
+    "@react-native-community/eslint-config": "~3.2.0",
     "@types/react": "^17.0.19",
-    "@types/react-native": "^0.64.13",
+    "@types/react-native": "^0.70.0",
     "eslint": "~7.32.0",
     "prettier": "~2.3.0",
     "rimraf": "~3.0.0",
